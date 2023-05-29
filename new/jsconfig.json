@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+       "baseUrl": "./test/src/",
+        "paths": {
+           "libs/*": ["./js/libs/*"]
+        }
+    }
+}
+
+// How to use it?
+// Should I use webpack before use it?

@@ -1,0 +1,6 @@
+exec:
+    python -m http.server
+
+
+keep doing:
+    - https://cursos.alura.com.br/course/webpack-modulos-webapp/task/92153
