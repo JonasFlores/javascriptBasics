@@ -1,9 +1,9 @@
-import { test } from "./libs/myLib/index.js";
+import Test from "./libs/myLib/index.js";
 
 function App(){
 
-  console.log(test);
+  const root = document.getElementById("root");
 
-  console.log("running the app")
+  root.innerHTML = Test()
 
 }; App();
